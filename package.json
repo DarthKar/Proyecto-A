@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-a",
+  "version": "1.0.0",
+  "description": "A **full-featured store management system** designed to handle inventory, sales, customers, and employees in a simple and efficient way.  \r This application allows store owners and managers to streamline daily operations, track stock levels, process transactions, and generate reports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthKar/Proyecto-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthKar/Proyecto-A/issues"
+  },
+  "homepage": "https://github.com/DarthKar/Proyecto-A#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
